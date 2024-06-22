@@ -59,7 +59,7 @@ const Hero = () => {
             href="/"
             title="Download CV"
             role="button"
-            class="mt-4 px-4 py-2 text-lg font-bold text-white  bg-primary-color rounded-xl">
+            className="mt-4 px-4 py-2 text-lg font-bold text-white  bg-primary-color rounded-xl">
             Download CV
           </button>
       </div>
